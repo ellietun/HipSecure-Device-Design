@@ -1,2 +1,2 @@
 Preview of Design
-![IMG_1562](https://github.com/ellietun/HipSecure-Device-Design/assets/138407151/c9c9d386-e66d-4305-abc4-3f503c88861c)
+![HipSecureDesign](https://github.com/user-attachments/assets/1d48f551-e3b2-44d4-83c1-e4e7960fddd3)
